@@ -1,4 +1,6 @@
 # c-sharp
+
+你必须解压到c盘下面才能正常运行
 test//2pt if the user submitted a valid student number,the app present the user with the student's current registrations
             //it has a greeting msg to student with the name and student number
             //it lists the student all registered course hint use GetRegisteredCourses() method od student
