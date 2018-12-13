@@ -9,3 +9,4 @@ test//2pt if the user submitted a valid student number,the app present the user 
         //are in a multi-selection list box. each course in the list is shown in the format of COURSEID-COURSETITLE(Hours/W)
         //hint use Contains(...)method of ist class to find if the list contains a given object
         //hint use SelectList(...)method to populate a milti-selection list the same as populating a dropdown list
+        
